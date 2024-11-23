@@ -2,11 +2,16 @@
 
 Este repositório é dedicado ao estudo e à aplicação de conceitos estatísticos com Python, baseado nos seguintes livros de referência:
 
-- **Estatística Básica do Bussab**
-  ![image](https://github.com/user-attachments/assets/54821a5e-8d33-4e4e-96a7-c6861e5d137f)
-
-- **Estatística Prática para Cientistas de Dados**
-  ![image](https://github.com/user-attachments/assets/9265524d-858d-44a5-8e8b-218e82ea5714)
+<div style="display: flex; justify-content: space-around;">
+  <div style="text-align: center;">
+    <p><b>Estatística Básica do Bussab</b></p>
+    <img src="https://github.com/user-attachments/assets/54821a5e-8d33-4e4e-96a7-c6861e5d137f" alt="Estatística Básica do Bussab" width="200">
+  </div>
+  <div style="text-align: center;">
+    <p><b>Estatística Prática para Cientistas de Dados</b></p>
+    <img src="https://github.com/user-attachments/assets/9265524d-858d-44a5-8e8b-218e82ea5714" alt="Estatística Prática para Cientistas de Dados" width="200">
+  </div>
+</div>
 
 ## Áreas de Estudo
 
@@ -38,5 +43,3 @@ A organização dos arquivos segue uma divisão por capítulos ou tópicos, insp
   - Seaborn
   - SciPy
   - Statsmodels
-
-
