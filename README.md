@@ -1,4 +1,4 @@
-# Statistics Repository
+# Estatística
 
 Este repositório é dedicado ao estudo e à aplicação de conceitos estatísticos com Python, baseado nos seguintes livros de referência:
 
@@ -20,11 +20,10 @@ Este repositório explora conceitos fundamentais e avançados de estatística ap
 
 ## Estrutura do Repositório
 
-A organização dos arquivos segue uma divisão por capítulos ou tópicos, inspirada nos conteúdos dos livros de referência. Cada tópico conterá:
+A organização dos arquivos segue uma divisão por capítulos ou tópicos, inspirada nos conteúdos dos livros de referência. Cada tópico conterá um notebook com:
 
 - **Notas teóricas:** explicação resumida do conceito
 - **Exercícios resolvidos:** códigos comentados em Python
-- **Desafios:** problemas práticos para reforçar o aprendizado
 
 ## Tecnologias Utilizadas
 
