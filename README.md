@@ -1,4 +1,4 @@
-# Estatística
+# Estatística 📈
 
 Este repositório é dedicado ao estudo e à aplicação de conceitos estatísticos com Python, baseado nos seguintes livros de referência:
 
